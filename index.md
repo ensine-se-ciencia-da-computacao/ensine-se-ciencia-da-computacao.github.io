@@ -38,6 +38,14 @@ Atualmente, o número de pessoas que entram na indústria está aumentando rapid
 
 ### Programação
 
+A maioria dos programas de pós-graduação começa com uma “introdução” à programação de computadores. As melhores versões desses cursos atendem não apenas aos novatos, mas também àqueles que perderam conceitos e modelos de programação benéficos enquanto aprendiam a programar.
+
+Nossa recomendação padrão para este conteúdo é o classico *Structure and Interpretation of Computer Programs*, que está disponível on-line gratuitamente [como livro](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) e como um conjunto de [palestras em vídeo do MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/). Embora essas palestras sejam ótimas, nossa sugestão de vídeo é na verdade as palestras do [SICP do Brian Harvey](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) (para o curso 61A em Berkeley). Estes são mais refinados e mais direcionados a novos alunos do que as palestras do MIT.
+
+Recomendamos trabalhar pelo menos nos três primeiros capítulos do SICP e fazer os exercícios. Para uma prática adicional, trabalhe com um conjunto de pequenos problemas de programação, como os do [exercism](http://exercism.io/).
+
+Para aqueles que acham o SICP muito desafiador, recomendamos o [How to Design Programs](https://htdp.org/). Para aqueles que acham que é muito fácil, recomendamos [Concepts, Techniques, and Models of Computer Programming](https://smile.amazon.com/Concepts-Techniques-Models-Computer-Programming/dp/0262220695/).
+
 ### Arquitetura de Computadores
 
 ### Algoritmos e Estruturas de Dados
